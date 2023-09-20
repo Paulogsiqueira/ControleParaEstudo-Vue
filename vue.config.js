@@ -1,4 +1,5 @@
-const { defineConfig } = require('@vue/cli-service')
-module.exports = defineConfig({
-  publicPath : '/Vue-Alura-Tracker'
-})
+module.exports = {
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/ControleParaEstudo-Vue/'
+    : '/'
+}
