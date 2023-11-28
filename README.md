@@ -11,3 +11,6 @@ O projeto utiliza as seguintes tecnologias:
 - Bulma: Um framework CSS responsivo e moderno, que facilita o desenvolvimento de interfaces atraentes. 
 - Vuex: Um padrão de gerenciamento de estado para aplicações Vue.js. 
 - Vue Router: Uma biblioteca oficial de roteamento para aplicações Vue.js. 
+
+## Deploy
+https://controle-para-estudo-vue.vercel.app/#/
