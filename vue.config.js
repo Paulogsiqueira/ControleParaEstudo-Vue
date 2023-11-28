@@ -1,3 +1,5 @@
 module.exports = {
-  baseUrl:'/ControleParaEstudo-Vue/'
+  publicPath: process.env.NODE_ENV === 'production'
+    ? '/Hamb-dist/'
+    : '/'
 }
