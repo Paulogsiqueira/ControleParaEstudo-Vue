@@ -6,8 +6,8 @@ Este é um projeto CRUD desenvolvido para controlar os projetos que devem ser es
 
 O projeto utiliza as seguintes tecnologias:
 
-- Vue3: Um framework JavaScript progressivo para a construção de interfaces de usuário. [^github.com^]
-- TypeScript: Um superconjunto de JavaScript que adiciona tipagem estática ao código. [^github.com^]
-- Bulma: Um framework CSS responsivo e moderno, que facilita o desenvolvimento de interfaces atraentes. [^github.com^]
-- Vuex: Um padrão de gerenciamento de estado para aplicações Vue.js. [^github.com^]
-- Vue Router: Uma biblioteca oficial de roteamento para aplicações Vue.js. [^github.com^]
+- Vue3: Um framework JavaScript progressivo para a construção de interfaces de usuário. 
+- TypeScript: Um superconjunto de JavaScript que adiciona tipagem estática ao código. 
+- Bulma: Um framework CSS responsivo e moderno, que facilita o desenvolvimento de interfaces atraentes. 
+- Vuex: Um padrão de gerenciamento de estado para aplicações Vue.js. 
+- Vue Router: Uma biblioteca oficial de roteamento para aplicações Vue.js. 
